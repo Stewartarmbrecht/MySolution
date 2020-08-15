@@ -1,0 +1,3 @@
+[submodule "./MyService"] 
+  path = ./MyService 
+  url = https://github.com/Stewartarmbrecht/MyTest.git
